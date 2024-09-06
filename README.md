@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🌱 Currently learning: Machine Learning, Data Science, and Python.<br>📊 Interested in: Solving real-world problems using data-driven approaches.<br>🎯 Goals: To master deep learning and contribute to impactful projects in AI.<br>📫 How to reach me:  lalithasahitya.palacharla@gmail.com</p>
+<p align="left">🌱 Currently learning: Machine Learning, Data Science, and Python.<br>📊 Interested in: Solving real-world problems using data-driven approaches.<br>🎯 Goals: To master deep learning and contribute to impactful projects in AI.<br>📫 How to reach me:  </p>
 
 ###
 
